@@ -2,3 +2,5 @@ big.txt
 big.log
 big.log.gz
 big-copy.log
+
+node_modules/
